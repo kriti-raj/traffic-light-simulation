@@ -6,7 +6,8 @@ Each lightshould be lit for the following durations:
 - Red light: `4000ms`
 - Yellow light: `5000ms`
 - Green light: `3000ms`
-  You are free to exercise your creativity to style the appearance of the traffic light.
+
+You are free to exercise your creativity to style the appearance of the traffic light.
 
 ## Installation
 
@@ -67,7 +68,3 @@ This project is licensed under the MIT License.
 - You can customize the styles further by modifying the Tailwind CSS classes in the `Colors` component and the `TrafficLight` container.
 
 By following the instructions in the README file, you should be able to set up and run the traffic light simulation locally. Feel free to customize the styles and functionality as per your requirements.
-
-```
-
-```
